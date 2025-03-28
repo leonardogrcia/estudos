@@ -1,1 +1,1 @@
-"Repositório Git para armazenar meus estudos" 
+Repositório Git para armazenar meus estudos
